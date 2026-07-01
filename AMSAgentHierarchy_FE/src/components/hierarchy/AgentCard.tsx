@@ -90,7 +90,7 @@ const AgentCard = ({ data }: Props) => {
 
                     <p className="font-bold text-lg">
 
-                        {data.designation.designation_id} : {data.designation.desigantion_name}
+                        {data.designation.designation_id} : {data.designation.designation_name}
 
                     </p>
 
